@@ -136,3 +136,4 @@ C:\Work Space\CRUD Project\Backend\crud-dotnet-api\obj\Debug\net8.0\refint\crud-
 C:\Work Space\CRUD Project\Backend\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.pdb
 C:\Work Space\CRUD Project\Backend\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.genruntimeconfig.cache
 C:\Work Space\CRUD Project\Backend\crud-dotnet-api\obj\Debug\net8.0\ref\crud-dotnet-api.dll
+C:\Work Space\CRUD Project\Backend\crud-dotnet-api\bin\Debug\net8.0\Newtonsoft.Json.dll
